@@ -1,10 +1,10 @@
 
 
-## Kursplan  
+## Forelesningsplan  
 
-Kursplanen inneholder informasjon om tidspunkt, tema, faglærer, samt evt. ressurser/oppgaver til hvert tema.  
+Forelesningsplanen inneholder informasjon om tidspunkt, tema, faglærer, samt evt. ressurser/oppgaver til hvert tema.  
 
-[Kursplan](kursplan.md){:target="blank"}
+[Forelesningsplan](forelesningsplan.md){:target="blank"}
  
 
 
