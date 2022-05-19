@@ -1,8 +1,7 @@
 {% include navbar_open.html %}{% include top-box.html %}
 
 
-# SOK-3073 Fordypningsemner i samfunnsøkonomi
-## Forelesningsplan  
+# Forelesningsplan  
 
 
 | Forelesning <img width=220/>   | Tema <img width=300/>         | Lærer  | Ressurser <img width=200/>  |
