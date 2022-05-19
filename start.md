@@ -14,15 +14,16 @@ Kursplanen inneholder informasjon om tidspunkt, tema, faglærer, samt evt. ressu
 ## Kursbeskrivelse 
 
 Kurset tas normalt i tredje semester på masterstudiet, og teller 10 studiepoeng.  
-[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=722319){:target="blank"}
+[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=766154)){:target="blank"}
 
 ## Faglærerinfo  
 
-[Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"} (fagansvarlig)
+- [Mikko Moilanen](https://uit.no/ansatte/person?p_document_id=200602){:target="blank"} (fagansvarlig)
+- [Derek J. Clark](https://uit.no/ansatte/derek.clark){:target="blank"}
   
 ## Pensum
 
-Anebfalt litteratur i [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/public/47BIBSYS_UBTO/lists/8510166510002205?auth=SAML){:target="blank"}  
+Anebfalt litteratur i [Leganto]([https://bibsys-c.alma.exlibrisgroup.com/leganto/public/47BIBSYS_UBTO/lists/8510166510002205?auth=SAML](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/9284255260002205?auth=SAML)){:target="blank"}  
 
 
 ## Administrative spørsmål
@@ -36,10 +37,9 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/cou
 
 
 ## Innlevering og eksamen  
+  
 
-Kurset har mappeevaluering. Alle oppgaver er obligatorisk; noen er _arbeidskrav_ (uten karakter), mens andre er karaktergivende.  
-
-Frister, oppgaver og ressurser finnes i [innleveringsplanen](innleveringsplan.md){:target="blank"}.    
+Frister, oppgaver og ressurser finnes i [innleveringsplanen](innleveringer.md){:target="blank"}.    
 
 
 
