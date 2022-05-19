@@ -1,4 +1,7 @@
 {% include navbar_open.html %}{% include top-box.html %}
+
+
+
 # Sok-3073 Fordypningsemner i samfunnsøkonomi   
 
 ## Innleveringsplan  
