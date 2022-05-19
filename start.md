@@ -39,7 +39,7 @@ Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/cou
 ## Innlevering og eksamen  
   
 
-Frister, oppgaver og ressurser finnes i [innleveringsplanen](innleveringer.md){:target="blank"}.    
+Frister, oppgaver og ressurser finnes i [innleveringsplanen](innleveringer.html){:target="blank"}.    
 
 
 
