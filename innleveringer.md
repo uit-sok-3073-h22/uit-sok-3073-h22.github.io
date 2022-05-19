@@ -1,18 +1,17 @@
 {% include navbar_open.html %}{% include top-box.html %}
-# Sok-xxxx Mikroøkonomi   
+# Sok-3073 Fordypningsemner i samfunnsøkonomi   
 
-## Innleveringer 
+## Innleveringsplan  
 
-- Arbeidskrav er obligatorisk, men inngår ikke i mappen.
-- Mappeinnleveringer er obligatoriske, og danner grunnlag for karakter A-F på kurset.
-- Skriftlige mappeoppgaver leveres i [Wiseflow](https://europe.wiseflow.net/participant/){:target="blank"}. 
-
-
-| Type oppgave                       | Innleveringsfrist | Ressurser |
-|------------------------------------|-------------------|-----------|
-|Mappeoppgave 1                      |  xx.xx            | kommer    |
-|Arbeidskrav 1                       | Uke x/x           | kommer    |
-|Mappeoppgave 2                      | xx.xx kl xx:xx    | kommer    |
+- Arbeidskrav er obligatoriske. Karakter settes ikke på disse. Skriftlige arbeidskrav leveres i [Canvas](https://uit.instructure.com/courses/22631){:target="blank"}.
+- Mappeoppgaven er obligatorisk, og teller 100% for karakter A-F på kurset. Mappeoppgaven leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.    
 
 
-Oppgavene kan løses i grupper på maksimalt 3.
+| Type oppgave <img width=80/>   |  Oppgave  <img width=300/>       | Innleveringsfrist <img width=80/> |
+|----------------|----------------------------------------------------------------------|-----------|
+|Arbeidskrav   | Muntlig presentasjon av selvvalgt artikkel                        | 10.09 kl. 12.15-14       |  
+|Arbeidskrav   | Skriftlig oppgave - faglig problemstilling og pensumliste                        | 22.10 kl. 14.00       |  
+|Arbeidskrav   | Muntlig presentasjon av problemstillingen                         | 12.11 kl 10.15-12      |   
+|Arbeidskrav   | Skriftlig prosjektbeskrivelse                        | 01.12 kl. 16.00       |
+|Mappe   | Skriftlig semesteroppgave                        | 10.12 kl. 16.00       |
+
