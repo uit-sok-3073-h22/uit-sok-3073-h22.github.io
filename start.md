@@ -4,7 +4,7 @@
 
 Forelesningsplanen inneholder informasjon om tidspunkt, tema, faglærer, samt evt. ressurser/oppgaver til hvert tema.  
 
-[Forelesningsplan](forelesningsplan.md){:target="blank"}
+[Forelesningsplan](forelesningsplan.html){:target="blank"}
  
 
 
