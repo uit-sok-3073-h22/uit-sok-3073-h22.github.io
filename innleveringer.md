@@ -2,9 +2,7 @@
 
 
 
-# Sok-3073 Fordypningsemner i samfunnsøkonomi   
-
-## Innleveringsplan  
+# Innleveringsplan  
 
 - Arbeidskrav er obligatoriske. Karakter settes ikke på disse. Skriftlige arbeidskrav leveres i [Canvas](https://uit.instructure.com/courses/22631){:target="blank"}.
 - Mappeoppgaven er obligatorisk, og teller 100% for karakter A-F på kurset. Mappeoppgaven leveres i [Wiseflow](https://europe.wiseflow.net/login/license/6){:target="blank"}.    
