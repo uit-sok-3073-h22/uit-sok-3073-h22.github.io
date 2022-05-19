@@ -8,7 +8,7 @@ Forelesningsplanen inneholder informasjon om tidspunkt, tema, faglærer, samt ev
  
 
 
-[Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21h&module[]=SOK-3073-1#week-26){:target="blank"} på timeplan.uit.no
+[Timeplan](https://timeplan.uit.no/emne_timeplan.php?sem=22h&module%5B%5D=SOK-3073-1){:target="blank"} på timeplan.uit.no
 
 
 ## Kursbeskrivelse 
@@ -33,7 +33,7 @@ For henvendelser av administrative art send e-post til: <hhcampus@hjelp.uit.no>.
 
 ## Kunngjøringer  
 
-Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/22631){:target="blank"}.
+Kunngjøringer og beskjeder legges ut i [Canvas](https://uit.instructure.com/courses/26966){:target="blank"}.
 
 
 ## Innlevering og eksamen  
