@@ -14,7 +14,7 @@ Forelesningsplanen inneholder informasjon om tidspunkt, tema, faglærer, samt ev
 ## Kursbeskrivelse 
 
 Kurset tas normalt i tredje semester på masterstudiet, og teller 10 studiepoeng.  
-[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=766154)){:target="blank"}
+[Læringsutbyttebeskrivelse](https://uit.no/utdanning/emner/emne?p_document_id=766154){:target="blank"}
 
 ## Faglærerinfo  
 
