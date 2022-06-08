@@ -23,7 +23,7 @@ Kurset tas normalt i tredje semester på masterstudiet, og teller 10 studiepoeng
   
 ## Pensum
 
-Anebfalt litteratur i [Leganto]([https://bibsys-c.alma.exlibrisgroup.com/leganto/public/47BIBSYS_UBTO/lists/8510166510002205?auth=SAML](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/9284255260002205?auth=SAML)){:target="blank"}  
+Anebfalt litteratur i [Leganto](https://bibsys-c.alma.exlibrisgroup.com/leganto/readinglist/lists/9284255260002205?auth=SAML){:target="blank"}  
 
 
 ## Administrative spørsmål
