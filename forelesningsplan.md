@@ -14,7 +14,7 @@
 |F6 16.09 kl 10.15-12 | Endnote | Åsne Ø. Høgetveit, UB       |  |
 |F7 22.09 kl 10.15-12      | Artikkelpresentasjon (arbeidskrav)  | MM/DC |   |
 |F8 29.09 kl 10.15-12    | Én til én veiledning  | MM/DC  |   |
-|F9 03.10 kl 10.15-12     | Idéverksted | MM/DC | [Ressurser](ideverksted.md){:target="_blank"}   |
+|F9 03.10 kl 10.15-12     | Idéverksted | MM/DC | [Ressurser KOMMER](ideverksted.md){:target="_blank"}   |
 |F10 13.10 kl 10.15-12  | Presentasjon av faglig problemstilling (arbeidskrav)        | MM/DC |  |
 |F11 19.10 kl 10.15-12     | Muntlige presentasjonsteknikker            | Helene N. Andreassen, UB |   |
 |F12 27.10 kl 10.15-12  | Veiledning | MM/DC |   |
