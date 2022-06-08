@@ -48,7 +48,7 @@ Frister, oppgaver og ressurser finnes i [innleveringsplanen](innleveringer.html)
 
 ## Nyttige ressurser  
 
-- [Retningslinjer for skriving av masteroppgaver ved UiTs Handelshøgskole](Retningslinjer for skriving av masteroppgaver, revidert oktober 2018.pdf){:target="blank"}.  
+- [Retningslinjer for skriving av masteroppgaver ved UiTs Handelshøgskole](Retningslinjer for masteroppgaver revidert november 2021.pdf){:target="blank"}.  
 - [Datakilder, populærvitenskapelig litteratur, blogger](nyttige_ressurser.html){:target="_blank"}
 
 
