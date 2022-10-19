@@ -16,8 +16,8 @@
 |F8 29.09 kl 10.15-12    | Én til én veiledning  | MM/DC  |   |
 |F9 03.10 kl 10.15-12     | Idéverksted | MM/DC | [Ressurser KOMMER](ideverksted.md){:target="_blank"}   |
 |F10 13.10 kl 10.15-12  | Presentasjon av faglig problemstilling (arbeidskrav)        | MM/DC |  |
-|F11 19.10 kl 10.15-12     | Muntlige presentasjonsteknikker            | Helene N. Andreassen, UB |[Notater](/forelesninger/2022_SOK-3073_Presentasjonsteknikk_norsk_HNAndreassen.pdf){:target="_blank"}   |
+|F11 19.10 kl 10.15-12 <br> Rom 02.218     | Muntlige presentasjonsteknikker            | Helene N. Andreassen, UB |[Notater](/forelesninger/2022_SOK-3073_Presentasjonsteknikk_norsk_HNAndreassen.pdf){:target="_blank"}   |
 |F12 27.10 kl 10.15-12  | Veiledning | MM/DC |   |
-|F13 03.11 kl 10.15-12 | Muntlig presentasjon av problemstillingen (arbeidskrav) | MM/DC |   |
+|F13 10.11 kl 10.15-12 <br> Rom 02.218 | Muntlig presentasjon av problemstillingen (arbeidskrav) | MM/DC |   |
 
-Alle timer finner sted på Handelshøgskolen:  HHT 02.118 (LEET klasserom)
+Alle timer finner sted på Handelshøgskolen:  HHT 02.118 (LEET klasserom) med mindre annet rom er oppgitt.
