@@ -12,7 +12,7 @@
 |----------------|----------------------------------------------------------------------|-----------|
 |Arbeidskrav   | Muntlig presentasjon av selvvalgt artikkel                        | 22.09 kl. 10.15-12       |  
 |Arbeidskrav   | Skriftlig oppgave - faglig problemstilling og pensumliste                        | 13.10 kl. 16.00       |  
-|Arbeidskrav   | Muntlig presentasjon av problemstillingen                         | 03.11 kl 10.15-12      |   
+|Arbeidskrav   | Muntlig presentasjon av problemstillingen                         | 10.11 kl 10.15-12      |   
 |Arbeidskrav   | Skriftlig prosjektbeskrivelse                        | 30.11 kl. 16.00       |
 |Mappe   | Skriftlig semesteroppgave                        | 09.12 kl. 16.00       |
 
